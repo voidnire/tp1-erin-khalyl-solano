@@ -12,6 +12,10 @@ Instalando na linha de comando
 
 [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt) e [Docker Compose Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-pt)
 
+#### Como funciona o docker compose
+
+[Docker Compose - Explicado](https://blog.4linux.com.br/docker-compose-explicado/)
+
 ### Postgres
 
 Criar pasta `postgres-data` na raiz do projeto. Essa pasta **não deve ser enviada** para o github.
