@@ -2,6 +2,16 @@
 
 Repositorio base para o Trabalho de Banco de Dados da Graduação em Ciencia da Computação na UFAM
 
+## Copiando esse repositorio
+
+Você deve ter uma conta no github, criar é gratis, e ele é essencial para a vida e carreira de você.
+
+Para fazer isso siga esses passos:
+
+https://user-images.githubusercontent.com/118348/229365938-48d261c8-b569-463c-bc00-462eb218b423.mp4
+
+Para entender melhor [git e github](https://www.alura.com.br/artigos/o-que-e-git-github).
+
 ## Configurando
 
 ### Docker e Docker Compose
