@@ -2,6 +2,8 @@
 
 Repositorio base para o Trabalho Prático 1 de Bancos de Dados I 
 
+Os detalhes sobre o trablho prático estão disponíveis [aqui](https://docs.google.com/document/d/1CXf_y392fJ_KNTZbdr5TWSRgEuYXFPyGTJOh4DcqOdA/edit): 
+
 ## Copiando esse repositorio
 
 Você deve ter uma conta no github. A criação de contas é gratis e o GitHub é importante para sua visa profissional e carreira
