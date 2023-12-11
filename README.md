@@ -1,6 +1,5 @@
-# ufam-BDI-tp1
-
-Repositorio base para o Trabalho Prático 1 de Bancos de Dados I 
+# Repositorio Base
+# Trabalho Prático 1 de Bancos de Dados I 
 
 Os detalhes sobre o trablho prático estão disponíveis [aqui](https://docs.google.com/document/d/1CXf_y392fJ_KNTZbdr5TWSRgEuYXFPyGTJOh4DcqOdA/edit): 
 
