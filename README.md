@@ -1,10 +1,10 @@
-# ufam-db-tp1
+# ufam-BD1-tp1
 
-Repositorio base para o Trabalho de Banco de Dados da Graduação em Ciencia da Computação na UFAM
+Repositorio base para o Trabalho Prático 1 de Bancos de Dados I 
 
 ## Copiando esse repositorio
 
-Você deve ter uma conta no github, criar é gratis, e ele é essencial para a vida e carreira de você.
+Você deve ter uma conta no github. A criação de contas é gratis e o GitHub é importante para sua visa profissional e carreira
 
 Para fazer isso siga esses passos:
 
