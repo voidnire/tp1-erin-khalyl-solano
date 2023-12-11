@@ -1,4 +1,4 @@
-# ufam-BD1-tp1
+# ufam-BDI-tp1
 
 Repositorio base para o Trabalho Prático 1 de Bancos de Dados I 
 
